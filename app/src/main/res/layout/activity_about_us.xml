@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.rceroorkee.indoriya.gagan.rce.AboutUs">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView3" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Roorkee College Of Engineering"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:layout_margin="10dp"
+             />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Roorkee College of Engineering was launched and promoted by chartered Accountant S.K. Gupta in 2010 with a view to provide high quality technical education to the regional aspirants in general and localite rural poor in particular.
+Our infrastructure, facilities, teaching methodologies and academic make sure that RCE retains a special place in the academic landscape of northern India and in the hearts of those who live, study and teach here. RCE emphasizes on emerging technologies, innovative thinking, teamwork, entrepreneurship, overall development and the importance of partnerships and global outlook. Our students are sought after by employers, and making a difference in our cities and communities for well over a decade now. We at RCE are forever committed to help you realize your career ambitions and unlock your true potential.
+
+A campus with good infrastructure, coached by highly distinguished faculty using the latest teaching aids, excellent hostel facilities, and a vision that drives us to ensure imparting wholesome technical education to our students, is what sets us apart from the run-of-the-mill engineering collages spread all over the country."
+                android:textSize="15sp"
+                android:gravity="center_horizontal"
+
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                 />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="---------------------------------------------"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Vision and Mission"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                 />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be an Institute of academic excellence with a commitment to quality education and research in the field of technology.\nTo create world class facilities for advance level of professional training and teaching.
+
+To continuously grow and become fountain head among institutes of technical education in India.
+To develop students as global citizens with conscience, commitment and dedication.
+To strengthen industry-institute interface and promote entrepreneurial developmental activities.
+To have collaboration with the leading universities of the world with a view to provide opportunities to the students for higher studies and seek placement avenues in India and abroad."
+                 android:textSize="15sp"
+                android:gravity="center_horizontal"
+
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="---------------------------------------------"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Values"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                 />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Academic integrity-By commitment to fundamental values Honesty, Trust, Fairness, Respect and Responsibility.
+To continuously grow and become fountain head among institutes of technical education in India.
+Attention to issues of national relevance and of global concern.
+Intellectual excellence.
+An unfettered spirit of learning Exploration, Rationality and Enterprise.
+Respect for the views of every individual."
+                  android:textSize="15sp"
+                android:gravity="center_horizontal"
+
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="---------------------------------------------"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Awards and Recognitions"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                android:id="@+id/textView6" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="RCE Roorkee is a Best Engineering College in Uttarakhand and has been awarded with various awards and recongnised by various organization in the recent past:"
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="-->Under CMAI National Uttrakhand Education Award-2013 jointly organized by CMAI, AICTE and MTU. in the presence of Hon’ble Minister of Science and Technoloby UP."
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="-->Under ASSOCHAM National Education Excellence Awards-2014. The award was presented by Padma Vibhushan Dr. Karan Singh."
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="-->Under National Jharkhand Education Awards-2014. The award was presented by Hon’ble Vice-Chancellor and Govt. Of Jharkhand."
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="-->Under Career Connect Awards-2014. The award was presented by Editor of Career Connect Magazine."
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="-->RCE Roorkee awarded for the ‘Best Placement in Uttarkhand (North India)’ during the ‘North India’s Most Valuable Educational Institutions Award Ceremony’ . This is one of the venerated awards which was handed over to RCE in New Delhi on January 24, 2015 by Mr. Ram Shankar Katheria, Honorable Minister of State HRD, Govt. of India. .
+The award was jointly received by CA S K Gupta, Hon’ble Chairman RCE , Dr. Gopal Ranjan, Director General, RCE and Dr. Pankaj Garg, Director, RCE. The management gave credit to students, faculty and placement cell for this achievement.
+…….. Click on the award for more details."
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_gravity="fill_horizontal"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
